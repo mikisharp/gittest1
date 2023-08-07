@@ -1,0 +1,10 @@
+body {
+    background-color: blue;
+}
+* {
+    color: white;
+}
+small {
+    display: block;
+}
+/* TODO: display inline-block functions */
